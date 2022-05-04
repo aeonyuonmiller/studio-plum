@@ -1,0 +1,9 @@
+{
+  "id": "firstSlice",
+  "label": "my-first-slice",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {}
+  }
+}
