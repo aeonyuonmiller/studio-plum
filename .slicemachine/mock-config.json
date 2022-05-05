@@ -1,5 +1,17 @@
 {
   "_cts": {
     "firstSlice": {}
+  },
+  "slices": {
+    "Photos1": {
+      "default": {
+        "primary": {},
+        "items": {
+          "images4": {
+            "content": "https://images.unsplash.com/photo-1585399000684-d2f72660f092"
+          }
+        }
+      }
+    }
   }
 }
